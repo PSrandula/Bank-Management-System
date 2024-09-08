@@ -1,0 +1,15 @@
+
+Name : pasindu sadeep
+Account no.: 12345100
+
+Rs5000 has been deposited to your account.
+Date/Time of transaction: Sun Sep 08 16:04:13 2024
+
+
+Rs1000 has been withdrawn from your account.
+Date/Time of transaction: Sun Sep 08 16:04:24 2024
+
+
+Rs500 has been transferred to account no. 12345120.
+Date/Time of transaction: Sun Sep 08 16:04:31 2024
+
